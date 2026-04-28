@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+title: "CLEAR Runtime Loop v0"
+message: "If you use this work, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: Prasad
+    given-names: Deeptanshu
+abstract: "A minimal CLEAR runtime loop for agentic systems: gate input, decompose risk/intent, simulate in a clean sandbox, and return constrained decision artifacts."
+keywords:
+  - agentic systems
+  - AI governance
+  - attestation
+  - CLEAR
+  - AGPI
+  - sandboxing
+license: MIT
+version: 0.1.0
+date-released: 2026-04-28
